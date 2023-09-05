@@ -1,0 +1,10 @@
+28 npm install firebase
+29 npm install -g firebase-tools
+30 firebase login
+31 firebase logout
+36 firebase login:add
+38 firebase init hosting
+39 firebase init emulators
+40 npm run build
+41 firebase emulators:start
+44 firebase deplay --only hosting
